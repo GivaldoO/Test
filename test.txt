@@ -1,1 +1,2 @@
-fkjsdjkfdsjkfdsjkfdsjfkdnsjknsfd
+def renato(cafe):
+   return drink(cafe)
