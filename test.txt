@@ -1,4 +1,1 @@
-printf("digite um numero: ");
-scanf("%i", &num);
-
-printf("voce digitou o numero %i.", num);
+trying to push on dev branch
