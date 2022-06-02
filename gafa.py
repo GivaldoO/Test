@@ -1,0 +1,1 @@
+print('Agora vai. Já coloquei as credenciais em .env')
